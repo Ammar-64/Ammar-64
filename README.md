@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-**I'm Ammar, and I'm a Senior Coding Trainer.**
+**I'm Ammar, a Senior Coding Trainer.**
 
 I'm passionate about using technology to solve real-world problems. I'm also interested in learning new things and sharing my knowledge with others.
 
 **Here are some of my skills and interests:**
 
 * Programming languages:  JavaScript, Python, Go
-* Web development: NodeSs, React, Next.js, ExpressJS
+* Web development: Node.js, React, Next.js, Express.js
 * Cloud computing:  GCP, AWS
 * Salesforce
 
