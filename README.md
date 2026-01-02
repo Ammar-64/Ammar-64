@@ -1,49 +1,45 @@
-### Hi there 👋
+### Hi, I'm Ammar 👋
 
-**I'm Ammar, a Senior Coding Trainer.**
+**Senior Software Engineer & Technical Lead** | London, UK
 
-I'm passionate about using technology to solve real-world problems. I'm also interested in learning new things and sharing my knowledge with others.
+I specialize in complex integrations, distributed systems, and multi-tenant architectures. I enjoy turning messy real-world problems into clean, scalable solutions.
 
-**Here are some of my skills and interests:**
+---
 
-* Programming languages:  JavaScript, Python, Go
-* Web development: Node.js, React, Next.js, Express.js
-* Cloud computing:  GCP, AWS
-* Salesforce
+#### 🚀 Recent Projects
 
+**[American VoxPop](https://americanvoxpop.com)** — *Founding Engineer*  
+Civic engagement platform integrating 13 government APIs (legislative, executive, judicial). Built 367+ endpoints, 73 database tables, enterprise patterns (circuit breakers, idempotency, saga orchestration).
 
-**I'm always looking for new opportunities to learn and grow. If you have any projects or ideas that you'd like to collaborate on, please feel free to reach out!**
+**Regen Therapy B2B Platform** — *Lead Software Architect*  
+Multi-tenant API middleware for pharmaceutical distribution. Designed tenant isolation architecture and distributed transactions across 5 external systems (Zoho, ShipStation, SendGrid, GCP).
 
-**Here are some links to my other online presence:**
+**[DAR](https://findyourdar.xyz)** — *Founding Engineer*  
+Event discovery platform with physics-based visualization. Achieved Lighthouse scores of 95/100/96/100.
 
-* [[LinkedIn profile]](https://www.linkedin.com/in/ammar-sam/)
-* [[Twitter profile]](https://twitter.com/AmmarSamm)
+**[DT Integration Hub](https://dtintegrationhub.com)** — *Founder & Developer*  
+UK's first centralized platform for displaced talent integration. Reviewed by UK Home Office. Serving 500+ users.
 
+---
 
-__________
+#### 🛠️ Tech Stack
 
-### Join Re:Coded as a mentor and shape the future of tech talents
+**Backend:** TypeScript, Node.js, NestJS, tRPC, Prisma  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Databases:** PostgreSQL, Redis, Firebase  
+**Cloud:** AWS (ECS, RDS, S3), GCP (Cloud Run, Cloud SQL)
 
-Guide, empower, and share your industry expertise to bridge the gap and foster inclusivity in the tech ecosystem.
+---
 
-As a mentor, you will help develop tech talent, promote diversity in the tech industry, give back to the community, and gain valuable learning opportunities.
+#### 🎤 Speaking & Advisory
 
-**Apply now! https://bit.ly/3smmORU**
+- **Geneva CRCP 2025** — Private Sector Engagement with Displaced Populations
+- **London Tech Week 2024** — Tech Jobs: Empowering Refugees Beyond Displacement
+- **UN Global Refugee Forum 2023** — Refugee Labour Mobility
+- **WebSummit 2023** — Displaced Talent in Technology
+- **UK Home Office Advisor** — Refugee Labour Mobility Pathways
 
-Help us spread the word by sharing this post and tagging professionals who might be interested. Together, let's make a difference!
+---
 
-#ReCoded #MentorshipMatters #TechForAll
-<!--
-**Ammar-64/Ammar-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-sam/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AmmarSamm)
