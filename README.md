@@ -20,7 +20,7 @@ Event discovery platform with physics-based visualization. Achieved Lighthouse s
 **[DT Integration Hub](https://dtintegrationhub.com)** — *Founder & Developer*  
 UK's first centralized platform for displaced talent integration. Reviewed by UK Home Office. Serving 500+ users.
 
-**[Residay](https://residay.app)** — *Founder & Developer*
+**[Residay](https://residay.app)** — *Founder & Developer*  
 Visa compliance tracking platform for expats and immigrants. Tracks absence days across UK ILR, Schengen 90/180, and other visa types. Built with NestJS, Next.js, React Native, and Turborepo. Live at residay.app.
 
 ---
