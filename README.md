@@ -9,10 +9,10 @@ I specialize in complex integrations, distributed systems, and multi-tenant arch
 #### 🚀 Recent Projects
 
 **[American VoxPop](https://americanvoxpop.com)** — *Founding Engineer*  
-Civic engagement platform integrating 13 government APIs (legislative, executive, judicial). Built 367+ endpoints, 73 database tables, enterprise patterns (circuit breakers, idempotency, saga orchestration).
+Civic engagement platform integrating 15+ government APIs (legislative, executive, judicial). Built 490+ endpoints, 100+ database tables, enterprise patterns (circuit breakers, idempotency, saga orchestration).
 
 **Regen Therapy B2B Platform** — *Lead Software Architect*  
-Multi-tenant API middleware for pharmaceutical distribution. Designed tenant isolation architecture and distributed transactions across 5 external systems (Zoho, ShipStation, SendGrid, GCP).
+Multi-tenant API middleware for regenerative medicine. Designed tenant isolation architecture and distributed transactions across 5 external systems (Zoho, ShipStation, SendGrid, GCP).
 
 **[DAR](https://findyourdar.xyz)** — *Founding Engineer*  
 Event discovery platform with physics-based visualization. Achieved Lighthouse scores of 95/100/96/100.
@@ -20,6 +20,8 @@ Event discovery platform with physics-based visualization. Achieved Lighthouse s
 **[DT Integration Hub](https://dtintegrationhub.com)** — *Founder & Developer*  
 UK's first centralized platform for displaced talent integration. Reviewed by UK Home Office. Serving 500+ users.
 
+[Residay](https://residay.app) — *Founder & Developer*
+Visa compliance tracking platform for expats and immigrants. Tracks absence days across UK ILR, Schengen 90/180, and other visa types. Built with NestJS, Next.js, React Native, and Turborepo. Live at residay.app.
 ---
 
 #### 🛠️ Tech Stack
