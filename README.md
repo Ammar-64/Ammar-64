@@ -22,6 +22,7 @@ UK's first centralized platform for displaced talent integration. Reviewed by UK
 
 **[Residay](https://residay.app)** — *Founder & Developer*
 Visa compliance tracking platform for expats and immigrants. Tracks absence days across UK ILR, Schengen 90/180, and other visa types. Built with NestJS, Next.js, React Native, and Turborepo. Live at residay.app.
+
 ---
 
 #### 🛠️ Tech Stack
